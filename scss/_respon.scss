@@ -1,0 +1,16 @@
+@media (max-width: 375px) {
+    body{
+        background-position:top -10vh left -20vw,bottom right -20vw;
+
+;
+    }
+}
+/* Test
+*/
+@media (min-width:376px){
+    body{
+
+        background-position:top -250px left, bottom -250px right;
+        background-size: 50%, 50%;
+    }
+}
